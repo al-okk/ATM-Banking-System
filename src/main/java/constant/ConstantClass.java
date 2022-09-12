@@ -14,8 +14,6 @@ public class ConstantClass {
 	public static final String NORMAL_CURRENT="NormalCurrent";
 	public static final String PRIVILEGE_CURRENT="PrivilegeCurrent";
 	public static final String LOW_BALANCE="Your Account Have Low Balance";
-	public static final String ACCOUNT_FILE="/home/v2stech/ATM_BANK_APPLICATION/atm/CSVfiles/Account.csv";
-	public static final String TRANSACTION_FILE="/home/v2stech/ATM_BANK_APPLICATION/atm/CSVfiles/Transaction.csv";
-	
-
+	public static final String ACCOUNT_FILE="Account.csv";
+	public static final String TRANSACTION_FILE="Transaction.csv";
 }
